@@ -1,5 +1,300 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Love-Has-Fireworks-2026-เมื่อรักส่องประกาย-187x269.jpg" group-title="Love Has Fireworks เมื่อรักส่องประกาย (2026) ซับไทย", EP1
-#EXTVLCOPT:http-referer=https://www.serie-days.com/
-https://main.24playerhd.com/m3u8/e61d5e8d5072dccea99d9869/e61d5e8d5072dccea99d9869438.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a9d1eec5441ada160afbaef03bcbbbd9/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/07dc8bfd6a0d4d253c43e2922d916279/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/0e54cfb79c6130c22dcd206389d22e68/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9-10.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/1b7c18c75a514d3c06c75a4323a7e01f/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/ccd2571aa86465543a4053a2aef5e92c/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/657a8468c9fd96d39e512e88ef5c85c8/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/4128d99d3e11c932c9c8d96b470bbe5d/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a1814b8f0ad177a5ff12abd576e9703b/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/082bd9417c8a65199fced77161bb6a77/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9-14.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/af8a93de9bc715c584a1113a4c2c360c/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/095eda56c7d3fcd8587bd77a6a5da0db/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/99-7.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/273d1e972541ea22a2b78abd669fa3d5/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/6650a181cea1089a7fc26d0d59d07802/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/609f18f1d2160afe62999d6ec9edc755/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/86a9144dccdd3c163a7fb4e6df3cb8c3/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/64fe7a4aeaef72eacbdb4448677789a9/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/c3e11a199689c4350254aefdc7eb49b1/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/9a902046436e4afe5da40772517218ae/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/3615835e3238b0fc2f62c85ba5ee9657/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/38634320ae7c5d1a38d40736c99632ed/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/454bbb23c79699eef729936d1bd423f8/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/b88a5da93b998dcd383e06516cd22688/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a453947433cd255b577bc9f2b5767361/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/6dda1798a58f5e652256c0edaf6929e7/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/18fa66d2e11ac95a928cf66315ba66d4/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d16ddc47ab6b7f8e14038abf2d1a944d/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/efd9a2a09f27f142c82f70951ef8fdb9/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/f6d511090f20bfdd4a34b29756bfeb97/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/766df47a35df97fdf0f268827842b293/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/2a31d04aa834f5454399881c70fe8324/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/7415da64703ad6ad65f1ed1e720b9e3a/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/ef7657d3546926e4a34f613b66f7adc7/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d6c94441e282eb18629bb4eb128124a8/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP13
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5600aae4c2038e265f4f2d431613dacc/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP14
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/77086ee198868bef266c62519dcbd85a/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a07f4c2c0c0a554fa1416b7fd9e0796d/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/e2f85660865d29c2e1fb236a3358289c/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a12591d2d5c4488afd79d41882f6b2dd/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/e2e9a6bb27df2bdc313184070a3675c9/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/635359e2c9259f5de1286c48aecac818/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/58e7e6b4f584851b601a385c5bf853cd/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/06/9.jpg" group-title="Teach You a Lesson อย่างนี้ต้องโดนสั่งสอน (2026)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5d300ca3401a30f1e5508fc5f72b2059/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/b78c1318bb445879a3793f6ccc688829/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/fe81290ac931a83b6f4518104978b41f/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/0ecd344511195257de8bab38df420705/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/cd68a61dafa39849533bb696f3100a14/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a006014ba81dca063834d5af521f49cb/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/0b98e5085902cd55c6abe8af27da1ea5/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5e10413653f3f706b97c3e299b409fa6/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/97e21e1e1b637b645636f5a8a583ba2c/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/b1ebfbf284235cced26c4ab105567891/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/c94aae26278e406b5de6db76d8405245/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/c8a88931f7e33fa2a15c6fb516a7b430/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/04/8.jpg" group-title=" Perfect Crown รักนี้มงลง (2026) พากย์ไทย", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/b7a4afb4c8ba01a9c91eed32ee3e05c2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5aef9dc24aa7f289b90c9711d4955dd7/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/bed6cd606508f7c00316437e9e3546b9/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/a51fc06cea853b74dc7a052b5c834176/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/e11d63c040c47966bc3a70de014d4c6d/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d9c16437893cfd29e998e14180e01736/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/72a340c717f6c04391accc0e30f5a9cf/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/3549716ef7e5a93b1e7186ae342dfdb2/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/455f1a34bf86001c3a335385dff3c712/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/3fdca99861bd2ccf66b469d4ea951885/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/41fc3edff57c989f5ee1553fb2dafbc6/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5a30ff07c6df570a61c9fb52324902b2/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg" group-title="Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/4b112a3c276b1e96765bd17042b274d3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP1
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/034a011021863e6366efa78aff8a8c55/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP2
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/43635ab009a3ddc71acd80cc0ea06d54/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP3
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d288693e4520ae5213789aa47b045846/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP4
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/57849635164af9b153e55f07ce3b795e/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP5
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/ca772cfa7a1ff8e655b6f87400bcad26/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP6
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/5051ec70e5eb45a4d82a6e31ab9208f6/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP7
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/9a226cb4a618ac09bf6a490f8238ce20/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP8
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/33f98f1fe8743f18712f9118067bae46/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP9
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d22c63567225f3f0aea5f404fed47f20/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP10
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/241a71c215966a8dba306aea7bc06ee3/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP11
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/ee216bc1484e5c52d954ffd1f475eee8/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2025/03/ซีรี่ย์-รับจ้างจัดหารัก.jpg" group-title="Love Scout รับจ้างจัดหารัก (2025)", EP12
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/88c0d4922e9b88cafd4ff9aed7375085/master.m3u8
