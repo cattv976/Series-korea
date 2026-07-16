@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP1
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/6lpaA1Ln4D/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP2
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/KwBkAp35vE/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP3
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP4
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP5
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP6
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP7
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP8
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP9
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP10
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP11
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP12
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/Love-in-Sync-2026-187x269.jpg" group-title=" Love in Sync (2026) ใจเชื่อมรัก", EP1
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 https://main.24playerhd.com/m3u8/a5844e6ff9689f837bd7cb3f/a5844e6ff9689f837bd7cb3f438.m3u8
@@ -48,41 +75,41 @@ https://main.24playerhd.com/m3u8/58ec3e592827b4239ddcff6c/58ec3e592827b4239ddcff
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026-187x269.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP10
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP1
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/ff261be42a82c5668a408e02/ff261be42a82c5668a408e02438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP2
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/6ac002215d98d67f41054642/6ac002215d98d67f41054642438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP3
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/5853da0d25c3f37aac4b291a/5853da0d25c3f37aac4b291a438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP4
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/7db74324540f847d06f0ca87/7db74324540f847d06f0ca87438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP5
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/d90348e9138709e74b8915cf/d90348e9138709e74b8915cf438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP6
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/1ef13a43ec7059178df0de43/1ef13a43ec7059178df0de43438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP7
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/a501952ad49189376fd8c7ec/a501952ad49189376fd8c7ec438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP8
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/0dd2053d2a41f7e37a62b5b4/0dd2053d2a41f7e37a62b5b4438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP9
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/c31b6aafaf88abc0783cf0c1/c31b6aafaf88abc0783cf0c1438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP10
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/bc64c118500e1d9b110b3ef6/bc64c118500e1d9b110b3ef6438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP11
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP1
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/kLa8OKv28R/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP2
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/I2tXgfSvp/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP3
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/XDVg97DV4/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP4
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/8Ll7Mbs6JN/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP5
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/gojP1thDER/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP6
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/7TzwEFtOLY/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP7
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/uCCT2u99cI/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP8
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/1oFaICqJ60/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP9
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/waNk97lkIq/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP10
+#EXTVLCOPT:http-referer=https://seriesindy.com/
+https://series-cdn.team-indy.net:8443/vod/MVfstGWm8c/video.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP11
+#EXTVLCOPT:http-referer=https://seriesindy.com/
 https://main.24playerhd.com/m3u8/9000f5b5c0733014e863df65/9000f5b5c0733014e863df65438.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-2026-187x269.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP12
-#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP12
+#EXTVLCOPT:http-referer=https://seriesindy.com/
 https://main.24playerhd.com/m3u8/4f1e07899cfb0ec334168725/4f1e07899cfb0ec334168725438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026-187x269.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP1
