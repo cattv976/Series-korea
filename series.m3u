@@ -1,31 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP1
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-https://series-cdn.team-indy.net:8443/vod/6lpaA1Ln4D/video.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP2
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-https://series-cdn.team-indy.net:8443/vod/KwBkAp35vE/video.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP3
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP4
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP5
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP6
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP7
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP8
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP9
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP10
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP11
-#EXTVLCOPT:http-referer=https://seriesindy.com/
-#EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/07/The-Apartment-Job-225x300.jpg" group-title="The Apartment Job ท่านประธานกำมะลอ", EP12
-#EXTVLCOPT:http-referer=https://seriesindy.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP1
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+https://main.24playerhd.com/m3u8/d3350ca28c98b8cde88f98dd/d3350ca28c98b8cde88f98dd438.m3u8
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP2
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+https://main.24playerhd.com/m3u8/9154384ea9cb995655b4d27e/9154384ea9cb995655b4d27e438.m3u8
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP3
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+https://main.24playerhd.com/m3u8/c990e7c1cbf4709e1e9b244c/c990e7c1cbf4709e1e9b244c438.m3u8
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP4
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP5
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP6
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP7
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP8
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP9
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP10
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP11
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
+#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP12
+#EXTVLCOPT:http-referer=https://www.seriedays.com/
 
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/Love-in-Sync-2026-187x269.jpg" group-title=" Love in Sync (2026) ใจเชื่อมรัก", EP1
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
@@ -41,6 +42,7 @@ https://main.24playerhd.com/m3u8/c02b822ff9a63eb4228ec02f/c02b822ff9a63eb4228ec0
 https://main.24playerhd.com/m3u8/e2bf03ce6ff9232be416925f/e2bf03ce6ff9232be416925f438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/Love-in-Sync-2026-187x269.jpg" group-title=" Love in Sync (2026) ใจเชื่อมรัก", EP5
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
+https://main.24playerhd.com/m3u8/baae074c701d6107b1dcb03c/baae074c701d6107b1dcb03c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/Love-in-Sync-2026-187x269.jpg" group-title=" Love in Sync (2026) ใจเชื่อมรัก", EP6
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/Love-in-Sync-2026-187x269.jpg" group-title=" Love in Sync (2026) ใจเชื่อมรัก", EP7
@@ -71,6 +73,7 @@ https://main.24playerhd.com/m3u8/58ec3e592827b4239ddcff6c/58ec3e592827b4239ddcff
 https://main.24playerhd.com/m3u8/62ce2c6b08be6416bb6f366d/62ce2c6b08be6416bb6f366d438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026-187x269.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP8
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
+https://main.24playerhd.com/m3u8/010a99c3e621b4ec79a0d0aa/010a99c3e621b4ec79a0d0aa438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026-187x269.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP9
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026-187x269.jpg" group-title="Agent Kim Reactivated สายลับคิมกลับมาแล้ว (2026)", EP10
@@ -108,10 +111,8 @@ https://series-cdn.team-indy.net:8443/vod/waNk97lkIq/video.mp4/playlist.m3u8
 https://series-cdn.team-indy.net:8443/vod/MVfstGWm8c/video.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP11
 #EXTVLCOPT:http-referer=https://seriesindy.com/
-https://main.24playerhd.com/m3u8/9000f5b5c0733014e863df65/9000f5b5c0733014e863df65438.m3u8
 #EXTINF:-1 tvg-logo="https://seriesindy.com/wp-content/uploads/2026/06/Doctor-on-the-Edge-TH-225x300.jpg" group-title="Doctor on the Edge หมอติดเกาะรักติดเธอ (2026)", EP12
 #EXTVLCOPT:http-referer=https://seriesindy.com/
-https://main.24playerhd.com/m3u8/4f1e07899cfb0ec334168725/4f1e07899cfb0ec334168725438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026-187x269.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP1
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
@@ -136,7 +137,7 @@ https://main.24playerhd.com/m3u8/57f85a96104bd96c414833d9/57f85a96104bd96c414833
 https://main.24playerhd.com/m3u8/e3810b6ecaa6e9bb28079a29/e3810b6ecaa6e9bb28079a29438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026-187x269.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP8
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/fc7dd34f13f5150beb0e98c1/fc7dd34f13f5150beb0e98c1.m3u8
+https://main.24playerhd.com/m3u8/fc7dd34f13f5150beb0e98c1/fc7dd34f13f5150beb0e98c1438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026-187x269.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP9
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026-187x269.jpg" group-title=" See You at Work Tomorrow! เจอกันที่ออฟฟิศพรุ่งนี้นะ! (2026)", EP10
@@ -157,31 +158,23 @@ https://main.24playerhd.com/m3u8/bc762db62f64d2ce67e78318/bc762db62f64d2ce67e783
 https://main.24playerhd.com/m3u8/35fccc3b39bccec993b4458f/35fccc3b39bccec993b4458f438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP4
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/3ed22972cbd100a28e50413a/3ed22972cbd100a28e50413a438.m3u8
+https://main.24playerhd.com/m3u8/3032996dd48c45a20929f1c9/3032996dd48c45a20929f1c9438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP5
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/41a883c7fe5c4fd7a5fdff7f/41a883c7fe5c4fd7a5fdff7f438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP6
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/3ef2c9fac25f84f2a17fb8dd/3ef2c9fac25f84f2a17fb8dd438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP7
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/08152f9f5cc564a8b770c5db/08152f9f5cc564a8b770c5db438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP8
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/41138ae53689cd6ba88b8691/41138ae53689cd6ba88b8691438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP9
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/51913a779d0c85a102831645/51913a779d0c85a102831645438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP10
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/6357bfe698edbf5c40e68cfe/6357bfe698edbf5c40e68cfe438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP11
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/b7420b8f9f68ec425860611f/b7420b8f9f68ec425860611f438.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-187x269.jpg" group-title="Reborn Rookie มือใหม่หักแค้น (2026)", EP12
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
-https://main.24playerhd.com/m3u8/ae93d7ed71f11189541bc67c/ae93d7ed71f11189541bc67c438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/My-Royal-Nemesis-2026-187x269.jpg" group-title="My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026)", EP1
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
