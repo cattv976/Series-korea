@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP1
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/a01075cdfc75c2846eb4981a/a01075cdfc75c2846eb4981a.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP2
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/106ac1442c2bd597d42fe9c8/106ac1442c2bd597d42fe9c8.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP3
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/adffdefaab63f0f407ea4a0c/adffdefaab63f0f407ea4a0c.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP4
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/798e21b91d0839994c1d7e16/798e21b91d0839994c1d7e16.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP5
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/d35d6fdc86d2825c57368870/d35d6fdc86d2825c57368870.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP6
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/7068e9ffbc0fbbc58f42296f/7068e9ffbc0fbbc58f42296f.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP7
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/47ea9d7c78ea74fef46d5138/47ea9d7c78ea74fef46d5138.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP8
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/0dd5bcc84425319396552b43/0dd5bcc84425319396552b43.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP9
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/7327e16f79d110d751e28464/7327e16f79d110d751e28464.m3u8
+#EXTINF:-1 tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-187x269.jpg" group-title="Make Me Tremble เสียวนัก เดี๋ยวรักเข้าให้ (2026)", EP10
+#EXTVLCOPT:http-referer=https://www.serieday-z.com/
+https://main.24playerhd.com/newplaylist/45e6a67d5ded757988912cdf/45e6a67d5ded757988912cdf.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/The-Apartment-Job-2026-187x269.jpg" group-title="The Apartment Job (2026) ท่านประธานกำมะลอ", EP1
 #EXTVLCOPT:http-referer=https://www.seriedays.com/
 https://main.24playerhd.com/m3u8/d3350ca28c98b8cde88f98dd/d3350ca28c98b8cde88f98dd438.m3u8
